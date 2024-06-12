@@ -1,5 +1,5 @@
 <p align="center">
- <img src="[https://media2.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif?cid=ecf05e47m3vacsts5fthipjgu8wbhnjcvztklh15knw54iq4&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://flatironschool.com/legacy-assets/images.ctfassets.net/hkpf2qd2vxgx/21Rmb6DrlFehbXI8uHrSTN/9798ad36e02c2ba90b89297062264461/pusheen-cat-keyboard.gif)" width="30%" height="30%" />
+ <img src="https://flatironschool.com/legacy-assets/images.ctfassets.net/hkpf2qd2vxgx/21Rmb6DrlFehbXI8uHrSTN/9798ad36e02c2ba90b89297062264461/pusheen-cat-keyboard.gif" width="30%" height="30%" />
 </p>
 
 <h2 >Hi there 👋, I am Mousumi Pal</h2>
