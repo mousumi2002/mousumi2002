@@ -10,7 +10,7 @@
 - 📫 How to reach me :
   * [![Gmail Badge](https://img.shields.io/badge/-moumipal2002@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:moumipal2002@gmail.com)
   * [![Linkedin Badge](https://img.shields.io/badge/-mousumipal-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:chatterjeeu7@gmail.com)](https://www.linkedin.com/in/mousumi-pal-209b131b7/)
-- ⚡ Fun fact: **You will always find me experimenting with Flutter or Android and binging some anime 😉**
+- ⚡ Fun fact: **You will always find me experimenting with Flutter or Android and binging some anime or playing games😉**
 - 🎊 Most Recent Achievement: Still loading in my brain...
 
 <h3 align="left">Connect with me:</h3>
