@@ -47,6 +47,8 @@
 &emsp;&emsp;
 </p>
 
+[![An image of @mousumi2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mousumi2002)](https://holopin.io/@mousumi2002)
+
 <p> <h3> Github Stats :</h3> </p>
 
 <br>
