@@ -58,3 +58,4 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mousumi2002&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mousumi2002&label=Views&color=blue&style=plastic&style=for-the-badge" alt="mousumi2002" /> </p>
