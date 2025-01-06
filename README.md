@@ -5,6 +5,7 @@
 <h2 >Hi there 👋, I am Mousumi Pal</h2>
 <h3 >Flutter App Developer based out of Kolkata, India</h3>
 
+- 🔭 Working as Flutter Developer Intern at [QuickSeat](https://www.linkedin.com/company/quickseat/)
 - 🌱 Learning more about **Flutter, Python, Firebase**
 - 💬 Ask me about **Cats, Food, Artworks**
 - 📫 How to reach me :
