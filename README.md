@@ -46,6 +46,8 @@
 <p align="left"> 
 <a href="https://stackoverflow.com/users/16430401/mousumi-pal" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" width="40" height="40"/> </a>
 &emsp;&emsp;
+<a href="https://gitlab.com/moumipal2002" target="_blank"> <img src="https://about.gitlab.com/images/press/gitlab-logo-500-png.png" alt="GitLab" width="40" height="40"/> </a>
+&emsp;&emsp;
 </p>
 
 [![An image of @mousumi2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mousumi2002)](https://holopin.io/@mousumi2002)
