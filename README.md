@@ -56,9 +56,9 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mousumi2002&show_icons=true&locale=en&count_private=true&theme=dracula" alt="mousumisstats" /></p>
+[![Mousumi's GitHub stats](https://github-stats-extended.vercel.app/api?username=mousumi2002)](https://github.com/stats-organization/github-stats-extended)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mousumi2002&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mousumi2002&hide=JavaScript)](https://github.com/anuraghazra/github-stats-extended)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousumi2002&label=Views&color=blue&style=plastic&style=for-the-badge" alt="mousumi2002" /> </p>
